@@ -31,19 +31,19 @@ reddit = praw.Reddit(client_id=client_id_r,
 
 
 def metal():
-    playlist_id = '5xxWTwdlXauRl1b1b9A7Tg'
+    playlist_id = ''
     sub = 'Metal'
     return playlist_id, sub
 def listentothis():
-    playlist_id = '06cwQ3H6bFfEPE3IskzMay'
+    playlist_id = ''
     sub = 'listentothis'
     return playlist_id, sub
 def music():
-    playlist_id = '4LVDhvhSkgyoMqrVyuFiyg'
+    playlist_id = ''
     sub = 'Music'
     return playlist_id, sub
 def vintageobscura():
-    playlist_id = '7drmhPTiA96aN8WIotIdq7'
+    playlist_id = ''
     sub = 'vintageobscura'
     return playlist_id, sub
 def default():
